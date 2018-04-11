@@ -28,4 +28,4 @@ Adding triangles and verteces are similar in the priority queue, O(v_0 + e_0 + t
 		still have to update the other edges positions.
 The overall time of the priority queue method is O(v_0 + e_0*loge_0 + t_0)
 
-![alt text](https://raw.githubusercontent.com/hgrov52/Triangle_Mash/master/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/hgrov52/Triangle_Mash/master/screenshot_mesh.png)
